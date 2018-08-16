@@ -1,0 +1,10 @@
+{
+    "require": {
+        "slim/slim": "3.0",
+        "catfan/medoo": "^1.5"
+    },
+    "require-dev": {
+        "apigen/apigen": "^4.1",
+        "phpunit/phpunit": "^7.3"
+    }
+}
